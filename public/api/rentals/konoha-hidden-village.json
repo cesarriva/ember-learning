@@ -1,0 +1,19 @@
+{
+  "data": {
+    "type": "rentals",
+    "id": "konoha-hidden-village",
+    "attributes": {
+      "title": "Konoha Hidden village",
+      "owner": "Uzumaki Naruto",
+      "city": "Fire Country",
+      "location": {
+        "lat": 37.7749,
+        "lng": -122.4194
+      },
+      "category": "Estate",
+      "bedrooms": 15,
+      "image": "https://static1.cbrimages.com/wordpress/wp-content/uploads/2019/11/Naruto-All-Hokage-Ranked.jpg?q=50&fit=crop&w=960&h=500",
+      "description": "The greatest Ninja village in the world."
+    }
+  }
+}
